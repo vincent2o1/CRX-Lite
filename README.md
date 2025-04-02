@@ -6,7 +6,6 @@ This agent gets the bits of information from the input source and stores it in s
 # Ring tree
 the successful patterns/ID gets stored in a comman directory where ring tree can access these stored files and organize them in a ring tree structure, and assists in **storage**, **retrieval**, **removal of stored unwanted information**
 
-> for now we will go with training and testing method separately for easier checking the performance of the model. after the good performance, we will merge the training and testing into one process - the attention process
 STORAGE - On training, the Ring tree function takes a successful patterns and organize them in a ring tree structure
 RETRIEVAL - on testing, the model takes the input signals and retrieves the stored information
 REMOVAL OF STORED INFORMATION - the ring tree function inherently works on cleaning the stored unwanted process. it does this process automatically.
@@ -30,8 +29,10 @@ REMOVAL OF STORED INFORMATION - the ring tree function inherently works on clean
 ---
 5. dual process - should actively communicate with focusing agent to gather additional input
 ---
-**TRAINING** - feeds all the piece of information into the model.
+**TRAINING** - Feeds all the piece of information into the model.  
+
 ---
-**ORGANIZING** - Organizes the incoming already familiar information within the ring tree netork
+**ORGANIZING** - Organizes the incoming already familiar information within the ring tree network.
+
 ---
-**TESTING** - a function that enables comprehensive traversal of interconnected 'ring trees' based on incoming input and external confirmation via focusing agent.
+**TESTING** -  A function that enables comprehensive traversal of interconnected 'ring trees' based on incoming input and external confirmation via focusing agent.
