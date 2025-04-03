@@ -1,4 +1,4 @@
-# CRX-Lite
+![focused_spots (1)](https://github.com/user-attachments/assets/bec49364-42df-4a71-b3f3-27e8d8bd4fa1)# CRX-Lite
 CRX-Lite is a novel, simplified approach designed to test my theory of BrainX and the original CRX. Recreating the full theory is computationally expensive and a lengthy process; moreover, it's not necessary to mimic nature's construction exactly. Just as we built calculators instead of robotic hands to perform calculations, CRX-Lite acts as a simplified tool. This model comprises two systems: a focusing agent, analogous to an eye, and a ring tree, which stores incoming information. CRX-Lite focuses solely on storage and retrieval. What you're seeing is the first stage of an information processing system, specifically, the retrieval of stored information
 # Focusing agent
 This agent gets the bits of information from the input source and stores it in sequence.This storage of sequence is what we call the 'smallest truth,' a learned feature of any input. Because the smallest truth is an emergent, inherent property of an information processing system during organizing and testing this function was called to confirm the activated nodes to whether present in the input source or not. if present the model continues giving outputs, of not found then model halts the process. this process is called dual process.
@@ -36,3 +36,15 @@ REMOVAL OF STORED INFORMATION - the ring tree function inherently works on clean
 
 ---
 **TESTING** -  A function that enables comprehensive traversal of interconnected 'ring trees' based on incoming input and external confirmation via focusing agent.
+
+An example -
+The input used to train this model:
+![focused_spots (1)](https://github.com/user-attachments/assets/79b040a5-6082-41bd-984d-bae000699635)
+
+The input used to test this model:
+![focused_spots_test_new (1)](https://github.com/user-attachments/assets/b16039b7-d33a-4a7a-bf47-8bccb98e8057)
+
+The output from the model during testing:
+![focused_spots_test (1)](https://github.com/user-attachments/assets/9cb225c0-1e93-4cde-9f8a-6c15a73b1442)
+
+
