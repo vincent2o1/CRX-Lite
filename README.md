@@ -1,4 +1,7 @@
-![focused_spots (1)](https://github.com/user-attachments/assets/bec49364-42df-4a71-b3f3-27e8d8bd4fa1)# CRX-Lite
+
+![ChatGPT Image Apr 6, 2025, 11_45_43 AM](https://github.com/user-attachments/assets/2fc65824-7de5-41bb-a414-b1b4b6ebe216)
+
+# CRX-Lite
 CRX-Lite is a novel, simplified approach designed to test my theory of BrainX and the original CRX. Recreating the full theory is computationally expensive and a lengthy process; moreover, it's not necessary to mimic nature's construction exactly. Just as we built calculators instead of robotic hands to perform calculations, CRX-Lite acts as a simplified tool. This model comprises two systems: a focusing agent, analogous to an eye, and a ring tree, which stores incoming information. CRX-Lite focuses solely on storage and retrieval. What you're seeing is the first stage of an information processing system, specifically, the retrieval of stored information
 # Focusing agent
 This agent gets the bits of information from the input source and stores it in sequence.This storage of sequence is what we call the 'smallest truth,' a learned feature of any input. Because the smallest truth is an emergent, inherent property of an information processing system during organizing and testing this function was called to confirm the activated nodes to whether present in the input source or not. if present the model continues giving outputs, of not found then model halts the process. this process is called dual process.
@@ -39,12 +42,21 @@ REMOVAL OF STORED INFORMATION - the ring tree function inherently works on clean
 
 An example -
 The input used to train this model:
-![focused_spots (1)](https://github.com/user-attachments/assets/79b040a5-6082-41bd-984d-bae000699635)
+![focused_spots (1)](https://github.com/user-attachments/assets/a2b29b62-d124-433e-8c13-a2c84f03e2ee)
 
 The input used to test this model:
-![focused_spots_test_new (1)](https://github.com/user-attachments/assets/b16039b7-d33a-4a7a-bf47-8bccb98e8057)
+![focused_spots_test_new (1)](https://github.com/user-attachments/assets/0b2d82f3-9bbc-448f-9c71-eecc632c714f)
 
 The output from the model during testing:
-![focused_spots_test (1)](https://github.com/user-attachments/assets/9cb225c0-1e93-4cde-9f8a-6c15a73b1442)
+![focused_spots_test (1)](https://github.com/user-attachments/assets/7160f6db-716a-41d0-a61b-ee54850ce06e)
 
 
+The input used for training this model -
+![Screenshot (69)](https://github.com/user-attachments/assets/76e9c1a5-2509-430b-a70b-84c4c3b02d32)
+
+---
+The input used for testing this model - 
+![Screenshot (70)](https://github.com/user-attachments/assets/02894882-61a2-47c1-ab0c-f12f444766b0)
+
+
+**This model is designed to give what it has stored when asked, which is core logic followed by the brain. The brain also follows some simple tricks that make it so hard to replicate. I can integrate all these tricks into this model. I am looking for a team to build this project, and with my current situation and resources, I doubt I can complete it alone. I have a theory and an architectural idea to make it practical. Let's build for the future; our actions today can make a difference in the history to come. I hope you find this project interesting, and will be waiting for the response..**
